@@ -1,7 +1,6 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <link rel="stylesheet" type="text/css" href="campk12portfolio.css">
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -11,8 +10,7 @@
 
     <title>ARCHERxGRIFFIN portfolio</title>
   </head>
-  <body class="text-white" >
-
+  <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
 
 
@@ -21,13 +19,14 @@
       <li class="nav-item active">
         <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
       </li>
-      <li class="nav-item active">
-        <a class="nav-link" href="#about">About <span class="sr-only">(current)</span></a>
-        <li class="nav-item active">
-        <a class="nav-link" href="#achievement">Achievements <span class="sr-only">(current)</span></a>
+      <li class="nav-item">
+        <a class="nav-link" href="#">About</a>
+      </li>
+        <li class="nav-item">
+        <a class="nav-link" href="#">Contact</a>
       </li>
     
-
+    
        </ul>
       <form class="form-inline my-2 my-lg-0">
       <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
@@ -35,21 +34,8 @@
     </form>
   </div>
 </nav>
-   
-    <div id="img "><h1 style="margin-top: 10%;"> ARCHER GRIFFIN</h1><img src="kenaki.jpg" id="img_bdr" ></div>
-    <br>
-    <div class="bg-dark"id="about"><h2>About</h2>
-    <p>I am ARCHER_GRIFFIN.I like playing the guitar and drawing. My favourite sports are volleyball, football and table tennis. In my free time, I play fortnite or do skateboarding.
-    I am grade 7 in acoustic guitar trinity. I love anime. I have seen most of the famous anime. If you love anime too, then what is 1000-7.I am good in fortnite. I am a season 3 playa.I get solo dubs with ease.I can do FaZe Sway highground retakes with ease. I am a legendery Controlla Playa.I don't spray. </p></div>
-    <div id="achievement">
-    	<h2>Achievements</h2>
-    	<img src="images/wca.png" class="ach">
-    	<img src="images/fncs.png" class="ach" >
-    	<img src="images/trinity.png" class="ach">
-    </div>
-    <footer id="copyright" class="bg-dark"> 
-    &copy; copyright by ARCHER_GRIFFIN
-    </footer>
+   <h1>ARCHER GRIFFIN</h1>
+   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fprogameguides.com%2Ffortnite-cosmetic%2Fbreakpoint%2F&psig=AOvVaw2yJT3vodnSfhs7AyG5Y1Uj&ust=1599378898645000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPDh1evE0esCFQAAAAAdAAAAABAD">
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

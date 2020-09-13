@@ -1,0 +1,56 @@
+body
+
+{
+align-items: flex-start;
+background: url(https://i.pinimg.com/originals/eb/2a/33/eb2a33ef67815e219f838d69e642aaf2.jpg);
+background-size: cover;
+color: white;
+}
+h1
+{
+text-align: center;
+
+}
+
+#img_bdr
+{	
+text-align: center;
+margin-left: 42%;
+height: 250px;
+width: 200px;
+border-radius: 50%;
+border:solid white 10px;
+margin-top: 4%;
+size: 100px;
+}
+
+
+
+h2
+{
+text-align: center;
+}
+#about{
+font-size: 20px;
+margin-top: 20%;
+padding-left: 10%;
+padding-right: 10%;
+padding: 3%;
+}
+#achievement
+{
+
+	margin-left: 50px;
+	margin-top: 90px;
+}
+.ach
+{
+height: 300px;
+margin: 3%;
+}
+#copyright
+{
+text-align: center;
+padding: 10px;
+}
+
